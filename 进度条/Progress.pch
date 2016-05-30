@@ -1,0 +1,17 @@
+//
+//  Progress.pch
+//  进度条
+//
+//  Created by huhang on 15/11/10.
+//  Copyright (c) 2015年 huhang. All rights reserved.
+//
+
+#ifndef ____Progress_pch
+#define ____Progress_pch
+
+#define kScreen_Width   [UIScreen mainScreen].bounds.size.width
+#define kScreen_Height  [UIScreen mainScreen].bounds.size.height
+
+#import "UIColor+colorValues.h"
+
+#endif
